@@ -29,8 +29,9 @@ class Ejercicio1 extends React.Component {
             </ul>
             <div class="sol-div">
               <h3>SOLUCIÓN</h3>
+              <div id="formulario"></div>
               <table>
-                <tr>
+                <tr id="filas">
                   <th>Nombre y apellidos</th>
                   <th>Peso</th>
                   <th>Altura</th>
