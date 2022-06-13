@@ -1,5 +1,5 @@
 import React from 'react';
-//import '../ev_1_code.js';
+import '../ev_1_code.js';
 
 class Ejercicio1 extends React.Component {
   constructor(props) {
